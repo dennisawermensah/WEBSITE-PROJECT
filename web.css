@@ -1,0 +1,26 @@
+#h1{
+    font-style: italic;
+    font-size: 75px;
+}
+.secaside{
+    display: flex;
+}
+.section{
+    display: flex;
+}
+.headnav{
+    background-image: url(image/savannah.jpg);
+    background-position: 100%;
+}
+.aside{
+    background-image: url(image/galaxy.jpg);
+    background-repeat: repeat-y;
+    color: white;
+}
+.navbar nav{
+    display: flex;
+    flex-direction: row;
+}
+#ftr{
+    font-style: italic;
+}

@@ -1,0 +1,17 @@
+button{
+    border: 1px solid blueviolet;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+#my-container{
+    width: 475px;
+    height: 475px;
+    background: #080457;
+    position: relative;
+}
+#animate-bird{
+    width: 75px;
+    position: absolute;
+}
